@@ -1,0 +1,1 @@
+Cricket uses: Bat, Ball, Wickets, Gloves, Pads

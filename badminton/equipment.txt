@@ -1,0 +1,1 @@
+Badminton uses: Racket, Shuttlecock, Net
